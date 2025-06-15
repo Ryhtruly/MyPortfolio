@@ -1,6 +1,6 @@
 # Lê Hữu Trí
 
-![Personal Banner]([[https://via.placeholder.com/800x200.png?text=3rd-Year+IT+Student+at+PTIT+-+Python+&+Game+Dev](https://www.canva.com/design/DAGqbcUK59Q/m6iXnhESUcTVX-hMOU63JA/edit?utm_content=DAGqbcUK59Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://res.cloudinary.com/dpbfb6hai/image/upload/v1749993556/Passionate_about_Python_Game_Development_aqpwun.png)) <!-- Thay URL này bằng ảnh của bạn -->
+![Personal Banner]([https://res.cloudinary.com/dpbfb6hai/image/upload/v1749993556/Passionate_about_Python_Game_Development_aqpwun.png](https://res.cloudinary.com/dpbfb6hai/image/upload/v1749993556/Passionate_about_Python_Game_Development_aqpwun.png?fl_attachment))
 
 **3rd-year IT Student at PTIT | Passionate about Python & Game Development**
 
