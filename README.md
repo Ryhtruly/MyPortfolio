@@ -1,6 +1,6 @@
 # Lê Hữu Trí
 
-![Personal Banner](https://res.cloudinary.com/dpbfb6hai/image/upload/v1749993556/Passionate_about_Python_Game_Development_aqpwun.png))
+![Personal Banner](https://res.cloudinary.com/dpbfb6hai/image/upload/v1749993556/Passionate_about_Python_Game_Development_aqpwun.png)
 
 **3rd-year IT Student at PTIT | Passionate about Python & Game Development**
 
