@@ -7,8 +7,7 @@
 - 🌱 Learning advanced Python and Pygame.
 - 💻 Built a 2D Platformer Game and a Store Management App.
 - 📚 Explore my projects here!
-- 🎥 Follow my [YouTube](https://youtube.com/yourchannel) for coding journey.
-- 💬 Connect on [Twitter](https://twitter.com/yourhandle).
+- 🎥 Follow my [YouTube](https://www.youtube.com/@moshiiiiiii4407) for coding journey.
 
 ---
 
@@ -21,6 +20,5 @@ I’m a third-year student at Posts and Telecommunications Institute of Technolo
 
 ### Get in Touch
 - 📧 Email: lehuutri@example.com
-- 🌐 [Portfolio](https://yourportfolio.com)
 
 Let’s code and grow! 😄
