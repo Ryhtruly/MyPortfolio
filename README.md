@@ -15,8 +15,8 @@
 I’m a third-year student at Posts and Telecommunications Institute of Technology (PTIT), excited about coding and game development. I believe everyone can code—let’s learn and create together!
 
 ### Projects
-- [Platformer Game](https://github.com/Ryhtruly/PlatformerGame) - A 2D game with Pygame.
-- [Store Management App](https://github.com/Ryhtruly/StoreManagement) - Python-based app.
+- [Store Management App](https://github.com/Ryhtruly/Stationery-Officehub.git) - Python-based app.
+- [Platformer Game](https://github.com/Ryhtruly/Demo.git) - A 2D game with Pygame.
 
 ### Get in Touch
 - 📧 Email: lehuutri@example.com
